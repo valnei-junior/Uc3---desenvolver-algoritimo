@@ -13,9 +13,9 @@ console.log(frutas);
 
 // -------------------------------------------------------------------------------
 
-// 2. Concatenar Strings com Template Literals
-// ● Crie duas variáveis saudacao = "Olá" e nome = "Maria". Concatene essas
-// variáveis usando template literals e imprima a mensagem "Olá, Maria!".
+2. Concatenar Strings com Template Literals
+● Crie duas variáveis saudacao = "Olá" e nome = "Maria". Concatene essas
+variáveis usando template literals e imprima a mensagem "Olá, Maria!".
 
 
 
